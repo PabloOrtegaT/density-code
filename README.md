@@ -10,9 +10,13 @@
 
 ## Folder Structure
 root
+
 ├── back
+
 │ ├── ...
+
 ├── front
+
 │ ├── ...
 └── README.md
 
@@ -55,7 +59,7 @@ Using the database.sql file you can create and populate the database
     ```
 2. Start the backend server:
     ```sh
-    npm start
+    node index.ts
     ```
 
 ### Frontend
